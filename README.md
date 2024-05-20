@@ -1,15 +1,13 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-719%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-720%20hrs%2017%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-64.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 118.4 kB Used in GitHub's Storage 
- > 
-> 🏆 271 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -70,5 +68,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/05/2024 04:36:11 UTC
+ Last Updated on 20/05/2024 06:37:01 UTC
 <!--END_SECTION:waka-->
