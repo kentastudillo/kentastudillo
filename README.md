@@ -1,15 +1,13 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-884%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-887%20hrs%2052%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 118.6 kB Used in GitHub's Storage 
- > 
-> 🏆 587 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -44,15 +42,15 @@ Sunday                   4524 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-TypeScript               25 hrs 34 mins      █████████████████████████   99.69 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+TypeScript               25 hrs 31 mins      █████████████████████████   99.95 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 38 mins      █████████████████████████   100.00 % 
+VS Code                  25 hrs 32 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      25 hrs 38 mins      █████████████████████████   100.00 % 
+Mac                      25 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -68,5 +66,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2024 16:41:52 UTC
+ Last Updated on 23/07/2024 18:41:19 UTC
 <!--END_SECTION:waka-->
