@@ -1,15 +1,13 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-895%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-896%20hrs%2039%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 118.6 kB Used in GitHub's Storage 
- > 
-> 🏆 602 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -44,9 +42,9 @@ Sunday                   4524 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-TypeScript               16 hrs 5 mins       ████████████████████████░   96.21 % 
+TypeScript               16 hrs 2 mins       ████████████████████████░   95.96 % 
 CSS                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
@@ -70,5 +68,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2024 16:35:45 UTC
+ Last Updated on 27/07/2024 18:38:13 UTC
 <!--END_SECTION:waka-->
