@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C069%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C070%20hrs%201%20min-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-66.5%20million%20lines%20of%20code-blue)
 
@@ -9,11 +9,9 @@
 
 > 📦 118.8 kB Used in GitHub's Storage 
  > 
-> 🏆 898 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
-> 📜 24 Public Repositories 
+> 📜 25 Public Repositories 
  > 
 > 🔑 16 Private Repositories 
  > 
@@ -60,15 +58,15 @@ Mac                      12 hrs 40 mins      ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               22 repos            ██████████░░░░░░░░░░░░░░░   40.74 % 
-TypeScript               14 repos            ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-Python                   12 repos            ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+JavaScript               22 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
+TypeScript               15 repos            ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+Python                   12 repos            █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
+SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 ```
 
 
 
 
- Last Updated on 18/09/2024 08:39:53 UTC
+ Last Updated on 18/09/2024 10:38:04 UTC
 <!--END_SECTION:waka-->
