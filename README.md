@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C366%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C361%20hrs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-67.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 168.5 kB Used in GitHub's Storage 
+> 📦 123.5 kB Used in GitHub's Storage 
  > 
 > 🏆 1,400 Contributions in the Year 2024
  > 
@@ -15,7 +15,7 @@
  > 
 > 📜 25 Public Repositories 
  > 
-> 🔑 20 Private Repositories 
+> 🔑 17 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -71,5 +71,5 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/12/2024 14:41:36 UTC
+ Last Updated on 23/12/2024 18:45:28 UTC
 <!--END_SECTION:waka-->
