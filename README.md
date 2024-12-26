@@ -7,7 +7,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 128.1 kB Used in GitHub's Storage 
+> 📦 123.6 kB Used in GitHub's Storage 
  > 
 > 🏆 1,401 Contributions in the Year 2024
  > 
@@ -15,7 +15,7 @@
  > 
 > 📜 25 Public Repositories 
  > 
-> 🔑 18 Private Repositories 
+> 🔑 17 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -71,5 +71,5 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/12/2024 12:58:00 UTC
+ Last Updated on 26/12/2024 14:38:21 UTC
 <!--END_SECTION:waka-->
