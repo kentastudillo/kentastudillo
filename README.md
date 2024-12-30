@@ -44,15 +44,13 @@ Sunday                   4587 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-TypeScript               5 hrs 15 mins       ███████████████████████░░   91.56 % 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-CSS                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   5 hrs 44 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      5 hrs 44 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -68,5 +66,5 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/12/2024 16:43:33 UTC
+ Last Updated on 30/12/2024 18:46:21 UTC
 <!--END_SECTION:waka-->
