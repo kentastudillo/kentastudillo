@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C698%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C700%20hrs%2024%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-77.59%20million%20lines%20of%20code-blue?style=flat)
 
@@ -44,14 +44,16 @@ Sunday                   4815 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-TypeScript               27 hrs 51 mins      █████████████████████████   99.89 % 
+TypeScript               27 hrs 43 mins      █████████████████████████   98.70 % 
+JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Cursor                   27 hrs 53 mins      █████████████████████████   100.00 % 
+Cursor                   28 hrs 5 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      27 hrs 53 mins      █████████████████████████   100.00 % 
+Mac                      28 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -67,5 +69,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/03/2026 16:56:40 UTC
+ Last Updated on 28/03/2026 19:04:47 UTC
 <!--END_SECTION:waka-->
