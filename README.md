@@ -46,41 +46,41 @@ Sunday                   5961 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-TypeScript               11 hrs 36 mins      ████████████████████░░░░░   78.91 % 
-Other                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-JavaScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+TypeScript               9 hrs 58 mins       █████████████████████░░░░   84.71 % 
+Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 
 🔥 Editors: 
-Cursor                   9 hrs 16 mins       ████████████████░░░░░░░░░   63.02 % 
-Claude Code              5 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   36.98 % 
+Cursor                   7 hrs 23 mins       ████████████████░░░░░░░░░   62.74 % 
+Claude Code              4 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   37.26 % 
 
 💻 Operating System: 
-Mac                      14 hrs 43 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 41 mins (72.59%)
+⏱ AI Coding Time: 8 hrs 22 mins (71.17%)
 
-✍️ 14,863 lines written by AI, 70 lines written by hand (99.53% AI-written)
+✍️ 5,354 lines written by AI, 13 lines written by hand (99.76% AI-written)
 
-🔤 173,605,743 Input Tokens, 902,891 Output Tokens
+🔤 121,680,472 Input Tokens, 564,281 Output Tokens
 
-💵 $254.70 Estimated AI Cost This Week
+💵 $199.16 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 113 AI Prompts
+🧠 25 AI Sessions, 83 AI Prompts
 
-Composer                 4,736 lines         ███████████████████████░░   90.31 % 
-Opus                     508 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+Composer                 2,237 lines         ███████████████████████░░   91.38 % 
+Opus                     211 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.53% of written lines came from AI
-📝 Concise Prompter — average 324 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 3.42% of changed lines were hand-edited
+🤖 AI-Driven — 99.76% of written lines came from AI
+📝 Concise Prompter — average 418 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 7.98% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -96,5 +96,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/08/2026 16:03:36 UTC
+ Last Updated on 04/08/2026 03:48:40 UTC
 <!--END_SECTION:waka-->
