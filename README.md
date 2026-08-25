@@ -19,6 +19,70 @@
  > 
 > 🔑 19 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                106886 commits      ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
+🌆 Daytime                181490 commits      ██████████░░░░░░░░░░░░░░░   41.91 % 
+🌃 Evening                141066 commits      ████████░░░░░░░░░░░░░░░░░   32.58 % 
+🌙 Night                  3599 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   67028 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+Tuesday                  85437 commits       █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
+Wednesday                94292 commits       █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
+Thursday                 83202 commits       █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+Friday                   83939 commits       █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+Saturday                 12569 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Sunday                   6574 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Manila
+
+💬 Programming Languages: 
+TypeScript               6 hrs 15 mins       ████████████████░░░░░░░░░   65.62 % 
+Other                    2 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
+Markdown                 1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+
+🔥 Editors: 
+Claude Code              7 hrs 57 mins       █████████████████████░░░░   83.37 % 
+Cursor                   1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+Agent                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+
+💻 Operating System: 
+Mac                      9 hrs 32 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 8 hrs 57 mins (93.91%)
+
+✍️ 2,375 lines written by AI, 4 lines written by hand (99.83% AI-written)
+
+🔤 3,988,261 Input Tokens, 713,760 Output Tokens
+
+💵 $211.07 Estimated AI Cost This Week
+
+🧠 19 AI Sessions, 91 AI Prompts
+
+Fable                    1,372 lines         ██████████████░░░░░░░░░░░   56.65 % 
+Opus                     1,050 lines         ███████████░░░░░░░░░░░░░░   43.35 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.83% of written lines came from AI
+📚 Verbose Prompter — average 4,345 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.25% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -32,5 +96,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2026 20:01:22 UTC
+ Last Updated on 25/08/2026 21:41:58 UTC
 <!--END_SECTION:waka-->
