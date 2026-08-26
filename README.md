@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C045%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C046%20hrs%207%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-140%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-142%20hrs%2028%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-708.04%20million%20lines%20of%20code-blue?style=flat)
 
@@ -46,41 +46,41 @@ Sunday                   6574 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-TypeScript               6 hrs 15 mins       ████████████████░░░░░░░░░   65.62 % 
-Other                    2 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
-Markdown                 1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Other                    2 hrs 49 mins       ████████████░░░░░░░░░░░░░   46.63 % 
+TypeScript               2 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   38.32 % 
+Markdown                 54 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 57 mins       █████████████████████░░░░   83.37 % 
-Cursor                   1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-Agent                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Claude Code              5 hrs 30 mins       ███████████████████████░░   90.54 % 
+Agent                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+Cursor                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
 
 💻 Operating System: 
-Mac                      9 hrs 32 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 57 mins (93.91%)
+⏱ AI Coding Time: 5 hrs 56 mins (97.85%)
 
-✍️ 2,375 lines written by AI, 4 lines written by hand (99.83% AI-written)
+✍️ 1,529 lines written by AI, 3 lines written by hand (99.8% AI-written)
 
-🔤 3,988,261 Input Tokens, 713,760 Output Tokens
+🔤 2,679,156 Input Tokens, 538,047 Output Tokens
 
-💵 $211.07 Estimated AI Cost This Week
+💵 $198.09 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 91 AI Prompts
+🧠 15 AI Sessions, 75 AI Prompts
 
-Fable                    1,372 lines         ██████████████░░░░░░░░░░░   56.65 % 
-Opus                     1,050 lines         ███████████░░░░░░░░░░░░░░   43.35 % 
+Opus                     1,050 lines         █████████████████░░░░░░░░   68.45 % 
+Fable                    484 lines           ████████░░░░░░░░░░░░░░░░░   31.55 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.83% of written lines came from AI
-📚 Verbose Prompter — average 4,345 characters per prompt
+🤖 AI-Driven — 99.8% of written lines came from AI
+📚 Verbose Prompter — average 4,371 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.25% of changed lines were hand-edited
+🚀 High AI Trust — 0.2% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -96,5 +96,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2026 18:12:28 UTC
+ Last Updated on 26/08/2026 21:04:49 UTC
 <!--END_SECTION:waka-->
