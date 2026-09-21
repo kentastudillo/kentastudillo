@@ -46,43 +46,43 @@ Sunday                   6722 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-TypeScript               1 hr 2 mins         ████████░░░░░░░░░░░░░░░░░   30.57 % 
-Other                    48 mins             ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
-JavaScript               26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-SQL                      23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-CSV                      20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+TypeScript               1 hr 2 mins         █████████░░░░░░░░░░░░░░░░   36.07 % 
+Other                    38 mins             ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
+SQL                      23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+CSV                      20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
 
 🔥 Editors: 
-Claude Code              1 hr 58 mins        ██████████████░░░░░░░░░░░   57.77 % 
-Agent                    1 hr 17 mins        █████████░░░░░░░░░░░░░░░░   37.79 % 
-Cursor                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Claude Code              1 hr 38 mins        ██████████████░░░░░░░░░░░   56.27 % 
+Agent                    1 hr 7 mins         ██████████░░░░░░░░░░░░░░░   38.89 % 
+Cursor                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
 
 💻 Operating System: 
-Mac                      3 hrs 25 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 21 mins (97.74%)
+⏱ AI Coding Time: 2 hrs 50 mins (97.74%)
 
-✍️ 4,060 lines written by AI, 1 lines written by hand (99.98% AI-written)
+✍️ 3,832 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 601,271 Input Tokens, 278,794 Output Tokens
+🔤 565,735 Input Tokens, 249,785 Output Tokens
 
-💵 $82.26 Estimated AI Cost This Week
+💵 $77.28 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 62 AI Prompts
+🧠 6 AI Sessions, 51 AI Prompts
 
-Fable                    4,064 lines         █████████████████████████   100.00 % 
+Fable                    3,836 lines         █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📚 Verbose Prompter — average 6,818 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.02% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 6,514 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -98,5 +98,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2026 17:58:39 UTC
+ Last Updated on 21/09/2026 23:18:04 UTC
 <!--END_SECTION:waka-->
