@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C066%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C069%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-173%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-177%20hrs%2028%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-774.57%20million%20lines%20of%20code-blue?style=flat)
 
@@ -46,19 +46,41 @@ Sunday                   6760 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    6 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   39.16 % 
+TypeScript               5 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   31.70 % 
+Bash                     2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+JavaScript               1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+Markdown                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              17 hrs 28 mins      █████████████████████████   99.42 % 
+Cursor                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      17 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 17 hrs 29 mins (99.55%)
+
+✍️ 7,956 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 10,040,199 Input Tokens, 1,545,495 Output Tokens
+
+💵 $268.37 Estimated AI Cost This Week
+
+🧠 16 AI Sessions, 144 AI Prompts
+
+Fable                    8,044 lines         █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 896 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -74,5 +96,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2026 19:43:10 UTC
+ Last Updated on 29/09/2026 00:51:22 UTC
 <!--END_SECTION:waka-->
