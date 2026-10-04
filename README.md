@@ -46,42 +46,42 @@ Sunday                   6840 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-TypeScript               7 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   33.82 % 
-Markdown                 5 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
-Bash                     2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-JSON                     2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-Other                    2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+TypeScript               5 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   29.32 % 
+Markdown                 5 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
+Bash                     2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+JSON                     2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+Other                    2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
 
 🔥 Editors: 
-Claude Code              21 hrs 38 mins      ████████████████████████░   95.99 % 
-Cursor                   54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+Claude Code              18 hrs 46 mins      ████████████████████████░   95.40 % 
+Cursor                   54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 
 💻 Operating System: 
-Mac                      22 hrs 32 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 5 mins (97.99%)
+⏱ AI Coding Time: 19 hrs 13 mins (97.7%)
 
-✍️ 13,519 lines written by AI, 1 lines written by hand (99.99% AI-written)
+✍️ 9,819 lines written by AI, 1 lines written by hand (99.99% AI-written)
 
-🔤 11,957,207 Input Tokens, 2,021,850 Output Tokens
+🔤 10,411,928 Input Tokens, 1,733,906 Output Tokens
 
-💵 $335.68 Estimated AI Cost This Week
+💵 $293.31 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 204 AI Prompts
+🧠 27 AI Sessions, 185 AI Prompts
 
-Fable                    13,994 lines        █████████████████████████   100.00 % 
+Fable                    10,294 lines        █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📄 Detailed Prompter — average 1,047 characters per prompt
+📄 Detailed Prompter — average 1,039 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 3.66% of changed lines were hand-edited
+🚀 High AI Trust — 4.91% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -97,5 +97,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2026 17:59:16 UTC
+ Last Updated on 04/10/2026 22:29:32 UTC
 <!--END_SECTION:waka-->
