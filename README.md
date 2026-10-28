@@ -11,7 +11,7 @@
 
 > 📦 129.4 kB Used in GitHub's Storage 
  > 
-> 🏆 2,538 Contributions in the Year 2026
+> 🏆 2,548 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -22,9 +22,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                120466 commits      ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
-🌆 Daytime                201148 commits      ██████████░░░░░░░░░░░░░░░   41.97 % 
-🌃 Evening                153238 commits      ████████░░░░░░░░░░░░░░░░░   31.97 % 
+🌞 Morning                120469 commits      ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
+🌆 Daytime                201149 commits      ██████████░░░░░░░░░░░░░░░   41.97 % 
+🌃 Evening                153243 commits      ████████░░░░░░░░░░░░░░░░░   31.97 % 
 🌙 Night                  4425 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
@@ -32,7 +32,7 @@
 ```text
 Monday                   75657 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
 Tuesday                  95219 commits       █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
-Wednesday                104793 commits      █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
+Wednesday                104802 commits      █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
 Thursday                 89726 commits       █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
 Friday                   93673 commits       █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
 Saturday                 13029 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
@@ -46,42 +46,42 @@ Sunday                   7180 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-TypeScript               4 hrs 16 mins       █████████████░░░░░░░░░░░░   51.46 % 
-JSON                     1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-Markdown                 56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-Other                    50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-Bash                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+TypeScript               5 hrs 9 mins        ███████████░░░░░░░░░░░░░░   45.51 % 
+Bash                     2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
+JSON                     1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+Other                    1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+JavaScript               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 24 mins       █████████████░░░░░░░░░░░░   53.96 % 
-Cursor                   3 hrs 45 mins       ████████████░░░░░░░░░░░░░   46.04 % 
+Claude Code              5 hrs 54 mins       █████████████░░░░░░░░░░░░   52.89 % 
+Cursor                   5 hrs 15 mins       ████████████░░░░░░░░░░░░░   47.11 % 
 
 💻 Operating System: 
-Mac                      8 hrs 9 mins        █████████████████████████   100.00 % 
+Mac                      11 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 41 mins (81.59%)
+⏱ AI Coding Time: 9 hrs 25 mins (84.07%)
 
-✍️ 5,808 lines written by AI, 3 lines written by hand (99.95% AI-written)
+✍️ 5,388 lines written by AI, 11 lines written by hand (99.8% AI-written)
 
-🔤 2,933,499 Input Tokens, 562,866 Output Tokens
+🔤 3,069,087 Input Tokens, 576,279 Output Tokens
 
-💵 $74.88 Estimated AI Cost This Week
+💵 $60.77 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 101 AI Prompts
+🧠 13 AI Sessions, 113 AI Prompts
 
-Fable                    3,489 lines         ██████████████░░░░░░░░░░░   57.80 % 
-Opus                     2,547 lines         ███████████░░░░░░░░░░░░░░   42.20 % 
+Opus                     5,664 lines         █████████████████████████   100.00 % 
+Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.95% of written lines came from AI
-📚 Verbose Prompter — average 1,720 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.12% of changed lines were hand-edited
+🤖 AI-Driven — 99.8% of written lines came from AI
+📄 Detailed Prompter — average 1,155 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.56% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -97,5 +97,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2026 16:28:41 UTC
+ Last Updated on 28/10/2026 22:09:30 UTC
 <!--END_SECTION:waka-->
